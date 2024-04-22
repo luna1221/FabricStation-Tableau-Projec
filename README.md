@@ -27,3 +27,10 @@ Color-code the markers to indicate which store serves each zip code area.
 Create a continuous area chart to display monthly sales amounts by store.
 8. Finalize and Package:
 After completing all visualizations, save the Tableau workbook as a packaged workbook (FabricStation.twbx).
+
+**Example Results:**
+
+<img width="734" alt="Screenshot 2024-04-21 at 21 47 06" src="https://github.com/luna1221/FabricStation-Tableau-Project/assets/122708598/98183846-6d0b-456f-beaa-7e6b024ce30b">
+
+<img width="548" alt="Screenshot 2024-04-21 at 21 47 43" src="https://github.com/luna1221/FabricStation-Tableau-Project/assets/122708598/79638436-e072-4167-a44c-8272edcd6833">
+
