@@ -29,8 +29,9 @@ Create a continuous area chart to display monthly sales amounts by store.
 After completing all visualizations, save the Tableau workbook as a packaged workbook (FabricStation.twbx).
 
 **Example Results:**
-<img width="905" alt="Screenshot 2024-04-21 at 21 50 03" src="https://github.com/luna1221/FabricStation-Tableau-Project/assets/122708598/588b0516-e118-40e6-9d7c-81233961b97d">
 <img width="899" alt="Screenshot 2024-04-21 at 21 50 18" src="https://github.com/luna1221/FabricStation-Tableau-Project/assets/122708598/77079b7a-a51e-4523-988b-48d791227611">
+<img width="905" alt="Screenshot 2024-04-21 at 21 50 03" src="https://github.com/luna1221/FabricStation-Tableau-Project/assets/122708598/588b0516-e118-40e6-9d7c-81233961b97d">
+
 
 
 
