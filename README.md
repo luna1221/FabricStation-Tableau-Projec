@@ -1,4 +1,4 @@
-# FabricStation-Tableau-Projec
+# FabricStation-Tableau-Project
 
 **Project Overview:**
 
